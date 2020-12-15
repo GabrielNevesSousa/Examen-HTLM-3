@@ -3,7 +3,7 @@
 Este es el la parte 3 del examen. Hemos de cojer un codigo html con las imganes y dejarlo igual a un resultado que nos pide
 
 ## Link del index 
-[link](https://github.com/mdn/learning-area/tree/master/html/multimedia-and-embedding/mdn-splash-page-start"link")
+[1](https://github.com/mdn/learning-area/tree/master/html/multimedia-and-embedding/mdn-splash-page-start"link)
 
 ## Link del patern 
 [link](https://github.com/mdn/learning-area/blob/master/html/multimedia-and-embedding/mdn-splash-page-start/pattern.png"link")

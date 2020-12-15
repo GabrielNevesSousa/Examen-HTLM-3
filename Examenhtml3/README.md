@@ -6,10 +6,10 @@ Este es el la parte 3 del examen. Hemos de cojer un codigo html con las imganes 
 <a href="https://github.com/mdn/learning-area/tree/master/html/multimedia-and-embedding/mdn-splash-page-start">Index<a/>
 
 ## Link del patern 
-[link](https://github.com/mdn/learning-area/blob/master/html/multimedia-and-embedding/mdn-splash-page-start/pattern.png"link")
+<a href="https://github.com/mdn/learning-area/blob/master/html/multimedia-and-embedding/mdn-splash-page-start/pattern.png">Partner<a/>
 
 ## Imagenes que necesitaremos 
-[link](https://github.com/mdn/learning-area/tree/master/html/multimedia-and-embedding/mdn-splash-page-start/originals"link")
+<a href="https://github.com/mdn/learning-area/tree/master/html/multimedia-and-embedding/mdn-splash-page-start/originals">Partner<a/>
 
 ### Objetivo a cumplir
 ![Imagen](EXAMENHTML3/Captura3.JPG)

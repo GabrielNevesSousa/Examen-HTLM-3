@@ -13,7 +13,7 @@ Este es el la parte 3 del examen. Hemos de cojer un codigo html con las imganes 
 
 ### Objetivo a cumplir
 <img src="Captura2.JPG">
-<img src="Captura3.JPG">
+<img src="Captura 3.JPG">
 <img src="Captura4.JPG">
 
 
